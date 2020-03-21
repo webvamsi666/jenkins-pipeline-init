@@ -1,5 +1,2 @@
-Selenium-Tests
-==============
-
-selenium sample tests
-comit 1
+# Jenkins pipeline-examples
+Example pipelines
